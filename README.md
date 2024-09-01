@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Muhammad Talal Nafees - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) - [GitHub](https://github.com/your-username)
+Muhammad Talal Nafees - [GMAIL](talalnafees55@gmail.com) [GitHub](https://github.com/your-username)
 
 Feel free to reach out if you have any questions or collaboration ideas!
